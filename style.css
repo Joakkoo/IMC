@@ -1,0 +1,30 @@
+.container {
+    width: 400px;
+
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.estructura {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+input[type="number"],
+input[type="submit"],
+input[type="text"] {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.resultados {
+    margin-top: 20px;
+}
